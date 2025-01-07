@@ -1,0 +1,4 @@
+Hi, today is day 2 of Internship. We had a Git Session where we were told about global and local settings. the commands for same are : 
+ git config --global user.name "Krishna Thakor"
+ git config --global user.email krishnathakor2411@gmail.com
+
